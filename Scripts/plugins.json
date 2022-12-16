@@ -461,6 +461,7 @@
       "Zip": [
         "*.kext"
       ],
+      "Lilu": true,
       "URL": "git clone --depth 1 https://github.com/OpenIntelWireless/IntelBluetoothFirmware",
       "MacKernelSDK": true,
       "Desc": "Intel Bluetooth kext"
